@@ -1,4 +1,4 @@
-- 👋 Hi, my name Denis and I'm a frontend developer
+- 👋 Hi, my name is Denis and I'm a frontend developer
 
 - 🌱 I’m currently learning React 
 
