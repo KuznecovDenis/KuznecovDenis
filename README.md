@@ -1,8 +1,8 @@
-- 👋 Hi, my name is Denis and I'm a frontend developer
+ 👋 Hi, my name is Denis and I'm a frontend developer
 
-- 🌱 I’m currently learning React 
+ 🌱 I’m currently learning React 
 
-- 📫 Send me a message Telegramm: @DenisKy95 or E-mail: kyznecov995@icloud.com
+ 📫 Send me a message Telegramm: @DenisKy95 or E-mail: kyznecov995@icloud.com
 
 <!---
 KuznecovDenis/KuznecovDenis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
