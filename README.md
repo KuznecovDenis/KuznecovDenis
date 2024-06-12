@@ -1,6 +1,6 @@
  👋 Hi, my name is Denis and I'm a frontend developer
 
- 🌱 I’m currently learning React 
+ 🌱 I’m currently learning Next.js and TypeScript
 
  📫 Send me a message Telegramm: @DenisKy95 or E-mail: kyznecov995@icloud.com
 
